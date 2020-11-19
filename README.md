@@ -1,1 +1,1 @@
-# recGitPau
+# Pau Nicolás Hernández
